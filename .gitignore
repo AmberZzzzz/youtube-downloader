@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# 项目特定
+downloads/*
+!downloads/.gitkeep
+logs/*
+!logs/.gitkeep
+videos_info.json
+
+# IDE
+.vscode/
+.idea/ 
